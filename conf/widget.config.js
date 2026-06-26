@@ -56,12 +56,5 @@ module.exports = {
   FACEBOOK_PAGE_ID: process.env.NEXT_PUBLIC_FACEBOOK_PAGE_ID || '', // Facebook Page ID 來啟用 messenger 聊天功能
   FACEBOOK_APP_ID: process.env.NEXT_PUBLIC_FACEBOOK_APP_ID || '' // Facebook App ID 來啟用 messenger 聊天功能 获取: https://developers.facebook.com/
 }
-<iframe
-  frameBorder="no"
-  border="0"
-  marginWidth="0"
-  marginHeight="0"
-  width={330}
-  height={86}
-  src="https://music.163.com/outchain/player?type=2&id=3320043593&auto=1&height=66"
-/>
+
+
