@@ -33,7 +33,7 @@ const CONFIG = {
   HEXO_ARTICLE_ADJACENT: true, // 显示上一篇下一篇文章推荐
   HEXO_ARTICLE_COPYRIGHT: true, // 文章版权声明：true 全部显示；false 全部关闭；custom 仅填写 copyright 时显示
   HEXO_ARTICLE_NOT_BY_AI: true, // 显示非AI写作
-  HEXO_ARTICLE_RECOMMEND: true, // 文章关联推荐
+  HEXO_ARTICLE_RECOMMEND: false, // 文章关联推荐
 
   HEXO_WIDGET_LATEST_POSTS: true, // 显示最新文章卡
   HEXO_WIDGET_ANALYTICS: false, // 显示统计卡
